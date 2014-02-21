@@ -16,8 +16,7 @@ function site_header ($title, $auth_list="") {
 	echo "\n";
 
 #		echo "	<h1><a href=\"".$_SERVER["PHP_SELF"]."\" title=\"Home Page\">\n";
-	echo "	<a href='./' title=\"Start Page\">\n";
-	echo "		<img src=\"./PeercoinBlockExplorerHeader.png\"></img></a>\n";
+	echo "	<h1><a href='./' title=\"Start Page\">Peercoin Block Explorer</a></h1></a>\n";
 	#echo "			<h3><a href='' title=\"Start Page\">\n";
 	#echo "				Block Chain Viewer\n";
 	#echo "			</a></h3>\n";
